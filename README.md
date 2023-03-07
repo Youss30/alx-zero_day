@@ -1,1 +1,1 @@
-My first readme upduated
+My first readme updated
